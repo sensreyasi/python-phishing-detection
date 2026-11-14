@@ -1,0 +1,14 @@
+From: IT Support <support@fake-company.example>
+Reply-To: attacker@unrelated.example
+To: employee@example.com
+Subject: Urgent! Verify your account immediately
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear Employee,
+
+Your account will be suspended unless you verify it immediately.
+
+Visit http://192.0.2.10/login to verify your password.
+
+IT Support
